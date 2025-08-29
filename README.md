@@ -42,4 +42,4 @@ I'm an enthusiastic developer with a strong passion for building intelligent sys
 - 💼 LinkedIn: [linkedin.com/in/airakibul](https://www.linkedin.com/in/airakibul/)  
 
 
-> Let's build something awesome together! 
+> Let's build something awesome together.
